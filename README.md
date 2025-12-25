@@ -1,1 +1,2 @@
 # ROLAND-S-MUSIC-GROUP-SALES-ANALYSIS-2017
+The primary objective of this analysis is to examine the characteristics of Roland’s Music Group and evaluate how the company generates sales, profits, and overall audience engagement. The study explores the performance of various content types, including total units sold, average units sold, the five lowest‑selling albums, the five highest‑selling albums, the top ten customers by purchase volume, sales quantity by artist, sales distribution by country, and sales by invoice.
